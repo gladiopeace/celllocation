@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Life is a trip</string>
+	<string name="Refresh">Refresh</string>
+	<string name="DB">Android/Data/com.lalalic.lbs/cache.db</string>
+	<string name="notification_title">Cell Location</string>
+	<string name="Service_URL">http://vm.1qiyou.com/loc/upload</string>
+	<string name="User_Email">1qiyou user name</string>
+	<string name="User_Password">password</string>
+	<string name="Caption_Account">Account</string>
+</resources>
